@@ -1,0 +1,14 @@
+td{
+    background-color: rgb(34, 34, 34);
+    width: 150px;
+    height: 150px;
+    color: rgb(150, 150, 150);
+    text-align: center;
+}
+table{
+    background-color: rgb(68, 68, 68);
+    border-spacing: 20px;
+    position: absolute;
+    left: 50%;
+    margin-left: -265px;
+}

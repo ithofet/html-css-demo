@@ -1,0 +1,28 @@
+body{
+    background-image: url(http://subtlepatterns.com/patterns/noisy_grid.png);
+}
+.log{
+    display: flex;
+    align-items: center;
+    font-size: 125px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.x{
+    width: 120px;
+    height: 120px;
+}
+.line{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 120px;
+}
+.dot{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+}
+.nol{
+    width: 40px;
+    height: 40px;
+}

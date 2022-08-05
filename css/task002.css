@@ -1,0 +1,11 @@
+body{
+    background-image: url(http://subtlepatterns.com/patterns/noisy_grid.png);
+}
+div.squer{
+    height: 132;
+    width: 132;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -66px 0 0 -66px;    
+}

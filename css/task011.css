@@ -1,0 +1,28 @@
+h3{
+    color: black;    
+}
+.preroll{
+    color: silver;    
+}
+.prerollNeed{
+    color: black;
+    background-color: silver;
+}
+
+.main{
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.code{
+    overflow-x: scroll;
+}
+.blue{
+    color: darkblue;
+
+}
+.param{
+    color: seagreen;
+}
+.data{
+    color: orange;
+}

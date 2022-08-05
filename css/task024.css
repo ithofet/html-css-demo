@@ -1,0 +1,27 @@
+.squers {
+    position: absolute;
+    top:50%;
+    margin-top: -75px;
+    display: flex;
+    align-items: center;
+  }
+.squer{
+    border-radius: 20%;
+    transform: rotate(45deg);
+    margin-left: 50px;
+}   
+.Blue{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+.Green{
+    width: 125px;
+    height: 125px;
+    background-color: green;
+}
+.Red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

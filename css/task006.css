@@ -1,0 +1,18 @@
+body{
+    background-image: url( https://img-fotki.yandex.ru/get/9150/136164467.13/0_11ce34_3711058f_orig.png);
+}
+a{
+    display: block;
+    text-align: center;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    height: 80;
+    width: 280;
+    margin: -40px 0 0 -140px;
+}
+span{
+    font-family: Arial, Helvetica, sans-serif;
+}

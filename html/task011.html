@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="../css/task011.css">
+        <title>Задача 11. "Создание графика"</title>
+    </head>
+    <body>
+    <div class="main">
+        <h3>Creating chat</h3>
+        <p class="preroll">
+            To create a chart, we need to instantiate the <span class="prerollNeed">Chart</span>  class. To do this, we need to pass in the 2d context of where we want to draw the chart. Here's an example.
+        </p>
+        <p class="code"> 
+            <span class="blue">&#x3C;canvas</span>
+            <span class="param"> id=</span>
+            <span class="data">&#x22;myChart&#x22;</span>
+            <span class="param"> width=</span> 
+            <span class="data">&#x22;400&#x22;</span>
+            <span class="param"> height=</span> 
+            <span class="data">&#x22;400&#x22;</span>
+            <span class="blue">>&#x3C;/canas></span>
+        </p>
+        </div>
+    </div>
+    <div>
+        <a href="../index.html">домой</a>
+    </div>
+    </body>
+</html>
+
+<!--
+    Creating chat
+
+To create a chart, we need to instantiate the Chart class. To do this, we need to pass in the 2d context of where we want to draw the chart. Here's an example.
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+// Get the context of the canvas element we want to select
+var ctx = document.getElementById("myChart").getContext("2d");
+var myNewChart - new Chart(ctx).PolarArea(data);
+
+We can also get the context of our canvas with JQuery. To do this, we need to get the DOM node out of the jQuery collection, and call the getContext("2d") method on that.
+
+// Get context with jQuery - using jQuery's .get() method.
+var ctx = $("#myChart").get(0).GetContext("2d");
+// This will get the first returned node in the jQuery collection
+var myNewChart = new Chart(ctx);
+
+After we've instantiated the Chart class on the canvas we want to draw on, Chart.js will handle the scaling for retina displays. 
+-->

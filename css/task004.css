@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+}
+h1{
+    line-height: 12px;
+    color: green;
+}
+h3{
+    line-height: 12px;
+    color: #556b2f;    
+}
+.squere{
+    height: 190px;
+    width: 400px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    margin: -95px 0 0 -200px;
+}  
+.url{
+    text-align: center;
+}
+

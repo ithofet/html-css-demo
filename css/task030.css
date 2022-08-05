@@ -1,0 +1,15 @@
+.block{
+    font-style: italic;
+    background-color: #EAF0F0;
+    width: 225px;
+    height: auto;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 25px;
+}
+.autor{
+    font-style: normal;
+    font-size: 20px;
+    color: #367B76;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}

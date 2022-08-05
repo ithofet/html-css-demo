@@ -1,0 +1,17 @@
+body{
+    background-color: #ffdead;
+}
+.text{
+    
+    border-left-color: #0000ff;
+    border-left-width: 3px;
+    border-left-style: dotted;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 260px;
+    height: auto;
+    text-align: justify;
+    text-indent: 10%;
+    font-family: sans-serif;
+    
+}

@@ -1,0 +1,36 @@
+h3 {
+    
+    font-size: 25px;
+    color: crimson;
+    overflow: hidden;
+    margin: 0 0 -2px;
+}
+h3::after {
+    content: "\2014\2014 \2014 \2014 \2014 \2014 \2014 \2014 \2014 \2014";
+    float: right;
+    color: crimson;
+}
+.page{
+    width: 560px;
+    position: absolute;
+    left: 50%;
+    margin-left: -280px;
+    font-family: "Sylfaen";
+}
+a{
+    color: red;
+}
+small{
+    color: silver;
+}
+.code{
+    color: white;
+    background: linear-gradient(to top, #000000, #404040);
+    height: 50px;    
+    padding-top: 25px;
+    padding-left: 20px;
+    font-family: monospace ;
+}
+h4{
+    color: crimson;
+}

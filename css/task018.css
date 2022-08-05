@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/pinstriped_suit.png");
+}
+.header
+{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_grid.png");
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.sidebar{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/squared_metal.png");
+    display: inline-block;
+    float: left;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    font-size: 30px;
+}
+.content{
+    background-image: url(../img/picter1.jpg);
+    float: right;
+    width: 550px;
+    height: 250px;
+    display: inline;
+    text-align: center;
+    font-size: 30px;}
+.footer{
+    margin-top: 250px;
+    width: 100%;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_grid.png");
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.main{
+    width: 750px;
+    position: absolute;
+    left: 50%;
+    margin-left: -375px;
+}

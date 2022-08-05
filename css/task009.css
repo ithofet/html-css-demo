@@ -1,0 +1,17 @@
+body{
+    background-color: #008888;
+}
+.list{
+    color: #ff8c00;
+    text-indent: 20px;
+    border-top: 5px double green;
+    border-bottom: 5px double green;
+    background-color: #f5f5d2;
+    width: 450px;
+    height: 100px;
+    margin: 30px 50px;
+    overflow-y: auto;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5% 5%;
+}

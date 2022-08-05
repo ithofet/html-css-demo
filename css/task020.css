@@ -1,0 +1,25 @@
+.main{
+    background-color: rgb(77, 208, 226);   
+    padding: 20px;
+    
+}
+.block1{
+    display: inline-block;
+    background-color: white;
+    width: 20px;
+    height: 200px;border: 1px solid black;
+    margin-left: 20px;
+}
+.block2{
+    width: 40px;
+    height: 200px;background-color: white; border: 1px solid black;display: inline-block;margin-left: 20px;
+}
+.block3{
+    width: 80px;height: 200px;background-color: white;border: 1px solid black;display: inline-block;margin-left: 20px;
+}
+.block4{
+    width: 160px;height: 200px;background-color: white;border: 1px solid black;display: inline-block;margin-left: 20px;
+}
+.block5{
+    width: 320px;height: 200px;background-color: white; border: 1px solid black;display: inline-block;margin-left: 20px;
+}

@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    margin-left: 40px;
+    width: 550px;
+}
+.code{ 
+    margin: 15px 0 15px 0;
+    background-color: whitesmoke;
+    border: 1px solid gainsboro;
+}   
+.code-scroll{
+    margin: 15px 0 15px 0;  
+    background-color: whitesmoke;
+    border: 1px solid gainsboro;
+    height: 40px;
+    width: auto;
+    white-space: nowrap;
+    overflow-x: auto;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: #ffdead;
+}
+.block{
+    color: #ff8c00;
+    border:1px solid red ;
+    width: 450px;
+    background-color: black;
+    text-align: justify;
+    font-family: Arial;
+    margin: 30px 30px;
+    text-indent: 10%;
+}

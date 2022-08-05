@@ -1,0 +1,21 @@
+body{
+    background-image: url(http://subtlepatterns.com/patterns/noisy_grid.png);
+}
+.main{
+    border: green solid 1px;
+    display: flex;
+    height: 50px;
+}
+.lock{
+    display: inline-block;
+    margin-top: 10px;
+}
+.text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2px;
+}
+a{
+    text-decoration: none;
+    font-family: inherit;
+}

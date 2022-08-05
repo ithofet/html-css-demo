@@ -1,0 +1,31 @@
+.triangle1{
+	position: absolute;
+	width: 0;
+	height: 0px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: 50px;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 50px solid green;
+}
+.triangle2{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -50px;
+    border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid green;
+}
+.triangle3{
+    position: absolute;
+    left: 50%;
+	top: 50%;
+	margin-left: 50px;
+	margin-top: 50px;
+    border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 50px solid green;
+}

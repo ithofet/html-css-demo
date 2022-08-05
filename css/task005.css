@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+}
+h1{
+    color: #556b2f;
+}
+p{
+    text-align: end;
+}
+.block{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -75px 0 0 -150px;
+}

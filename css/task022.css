@@ -1,0 +1,25 @@
+body{
+background-color: #8FBC8F;
+}
+.rbig{
+    background-color: #FFA500;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 50%;
+    top: 50%;
+    margin-top: -150px;
+    margin-left: -150px;
+    border-radius: 300px;
+}
+.rsmall{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    margin-top: -75px;
+    margin-left: -75px;
+    border-radius: 150px;
+}
